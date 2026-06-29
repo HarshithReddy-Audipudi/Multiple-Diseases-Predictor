@@ -1,2 +1,2 @@
-# Final-Project
-Heart Disease Prediction System
+# \Ensemble modeling
+Multiple Disease Prediction System
